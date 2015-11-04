@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://ruixz.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Rui's Blog
+subtitle: Records of learning everyday.
+author: Rui Song
 simple_search: https://www.google.com/search
-description:
+description: Thoughts on developing software and records of learning.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
